@@ -13,7 +13,7 @@
       "client": "cd client && npm start"
     },
     "keywords": [],
-    "author": "Jerriet Kuo",
+    "author": "Christian Guan",
     "license": "ISC",
     "dependencies": {
       "core-js": "^3.38.1",
